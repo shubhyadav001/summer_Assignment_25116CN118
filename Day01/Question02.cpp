@@ -1,1 +1,1 @@
-// Write a program to Print multiplication table of a given number.
+// Question 2 Write a program to Print multiplication table of a given number.
