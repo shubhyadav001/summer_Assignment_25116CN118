@@ -1,10 +1,18 @@
-//Write a program to Print character pyramid. 
+//Print Character Pyramid
+
+//Pattern:
+
+//A
+//ABA
+//ABCBA
+//ABCDCBA
+//ABCDEDCBA
+
 #include <iostream>
 using namespace std;
 
 int main() {
     int n;
-
     cout << "Enter number of rows: ";
     cin >> n;
 
